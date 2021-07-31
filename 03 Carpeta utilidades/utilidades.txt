@@ -1,1 +1,4 @@
 Nuevo monitor para tener en pantalla un 21:9
+
+Añadir líneas de código que son necesarias para el proyecto
+Supervisión de todos lso apartados que se deben de controlar 
